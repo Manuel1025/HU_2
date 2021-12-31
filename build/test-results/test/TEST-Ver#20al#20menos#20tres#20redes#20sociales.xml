@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ver al menos tres redes sociales" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-31T02:31:51" hostname="22LAP5CD1346NJJ" time="23.254">
+  <properties/>
+  <testcase name="el usuario deberia  poder ver en la parte inferior de la pagina al menos tres redes sociales" classname="Ver al menos tres redes sociales" time="23.254"/>
+  <system-out><![CDATA[21:31:52.906 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+21:31:52.906 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+21:32:02.332 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+21:32:02.332 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+21:32:02.645 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_3\target\site\serenity\0506a3a1dbbee2235fe47286b51a09f8232743f85c8d1caad92c55e9d4d990ac.png
+21:32:07.259 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_3\target\site\serenity\b7091e737bc2aa12ccc9348ecd2aa337ea8ad0bbf33655c8abe277561ee8ba14.png
+21:32:07.263 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-2098270454555680870
+21:32:07.263 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_3\target\site\serenity\b7091e737bc2aa12ccc9348ecd2aa337ea8ad0bbf33655c8abe277561ee8ba14.png
+follow_facebook**********************************
+follow_twitter**********************************
+follow_linkedin**********************************
+follow_facebook**********************************
+follow_twitter**********************************
+follow_linkedin**********************************
+follow_facebook**********************************
+follow_twitter**********************************
+follow_linkedin**********************************
+21:32:11.505 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\ENTREGAS\HU_3\target\site\serenity\5bd6b3b89f2f57cbefa9e6290d2575b923cdf1a61fc49ba67b5ed5845be6eab1.png
+21:32:11.509 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-9181392038929334331
+21:32:11.509 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\ENTREGAS\HU_3\target\site\serenity\5bd6b3b89f2f57cbefa9e6290d2575b923cdf1a61fc49ba67b5ed5845be6eab1.png
+21:32:14.718 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario deberia  poder ver en la parte inferior de la pagina al menos tres redes sociales
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[dic 30, 2021 9:31:52 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 27275
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 30, 2021 9:31:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
